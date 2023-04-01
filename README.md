@@ -1,4 +1,4 @@
-#Microsoft Clone
+# Microsoft Clone
 Microsoft Clone using Tailwind CSS
 ## Description
 I used Tailwind css to style it.Main aim was to clone as much as possible and practice the complex designs
